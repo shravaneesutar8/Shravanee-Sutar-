@@ -10,6 +10,7 @@
 - Internet of Things (IoT)
 - Smart Home Projects
 - Software Development
+- UI/UX Design
 
 🚀 Currently Learning
 - Data Structures & Algorithms
